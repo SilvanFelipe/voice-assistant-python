@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes virtuais
+venv/
+env/
+
+# Arquivos temporários
+*.mp3
+*.wav
+*.log
+
+# IDE
+.vscode/
+.idea/
